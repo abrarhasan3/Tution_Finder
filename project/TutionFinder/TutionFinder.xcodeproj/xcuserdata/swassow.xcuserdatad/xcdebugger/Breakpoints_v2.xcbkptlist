@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8ED3C829-F278-4110-91D7-8759E81A13B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6A7ADB8-027D-40AA-8691-0E375F929A9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutionFinder/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F6A7ADB8-027D-40AA-8691-0E375F929A9B - 8d3d433ee7b75b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TutionFinder.ViewController"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F6A7ADB8-027D-40AA-8691-0E375F929A9B - 79d6765a01a71bf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TutionFinder.ViewController"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "F6A7ADB8-027D-40AA-8691-0E375F929A9B - e9728c082010db99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TutionFinder.ViewController&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F6A7ADB8-027D-40AA-8691-0E375F929A9B - c75fcbf2dc277aa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TutionFinder.ViewController&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "F6A7ADB8-027D-40AA-8691-0E375F929A9B - 19c060ddc1f1d1e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.ViewController.__deallocating_deinit"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D90FCCA5-3B80-403A-AA53-E90A0838AF39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutionFinder/searchActivity.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutionFinder/postAct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "postAct"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D - abacd4de4003992f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.postAct.wkd.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/postAct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D - e5c38a8cf4ca15cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.postAct.wkd.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/postAct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D - aadfae93aafcce18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.postAct.wkd.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/postAct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D - cb27b3a9bd74ee7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.postAct.wkd.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/postAct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D - 1c609818cfd5424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.postAct.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TutionFinder.postAct"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/postAct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "567C6F70-EB6F-4A04-A961-163A90F9D03D - 64e9e566e52f066f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.postAct.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TutionFinder.postAct&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/postAct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F6DBD27-0D71-41F4-B2DA-6F9864C996FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutionFinder/customDataForTable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "customDataForTable"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F6DBD27-0D71-41F4-B2DA-6F9864C996FD - 16027ed654c2a8c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.customDataForTable.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TutionFinder.customDataForTable"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/customDataForTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5F6DBD27-0D71-41F4-B2DA-6F9864C996FD - 5aa7d45d450c46f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.customDataForTable.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TutionFinder.customDataForTable"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/customDataForTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "5F6DBD27-0D71-41F4-B2DA-6F9864C996FD - 20bbb3e321703410"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.customDataForTable.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TutionFinder.customDataForTable&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/customDataForTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "5F6DBD27-0D71-41F4-B2DA-6F9864C996FD - d40982a5474466ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.customDataForTable.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TutionFinder.customDataForTable&gt;"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/customDataForTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5F6DBD27-0D71-41F4-B2DA-6F9864C996FD - cec1dcaedcbfc9a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutionFinder.customDataForTable.__deallocating_deinit"
+                  moduleName = "TutionFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swassow/Desktop/Tution/TutionFinder/TutionFinder/customDataForTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
